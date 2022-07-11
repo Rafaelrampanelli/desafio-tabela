@@ -1,0 +1,25 @@
+.cabeçalho-moda {
+    background-color: #BB86FC;
+    color: #ffff;
+    
+}
+
+.valores-da-tabela{
+    background-color: #424250;
+    color: #ffff;
+    
+}
+
+.cabeçalho-casa{
+    background-color: #00C4B4;
+    color: #ffff;
+}
+
+table {
+    text-align:center;
+    margin: 30px;
+}
+
+table tr td {
+    padding: 5px;
+}
